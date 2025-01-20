@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\systemIOKlasaFile\systemIOKlasaFile\bin\Debug\systemIOKlasaFile.exe.config
+C:\Users\Učenik\source\repos\systemIOKlasaFile\systemIOKlasaFile\bin\Debug\systemIOKlasaFile.exe
+C:\Users\Učenik\source\repos\systemIOKlasaFile\systemIOKlasaFile\bin\Debug\systemIOKlasaFile.pdb
+C:\Users\Učenik\source\repos\systemIOKlasaFile\systemIOKlasaFile\obj\Debug\systemIOKlasaFile.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\systemIOKlasaFile\systemIOKlasaFile\obj\Debug\systemIOKlasaFile.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\systemIOKlasaFile\systemIOKlasaFile\obj\Debug\systemIOKlasaFile.exe
+C:\Users\Učenik\source\repos\systemIOKlasaFile\systemIOKlasaFile\obj\Debug\systemIOKlasaFile.pdb
